@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá, desenvolvedores, meu nome é Jonathan Ramos, tudo bem?👋
 
-<!--
-**desenvjonathan/desenvjonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bem vindos ao meu perfil GitHub! 🚀
 
-Here are some ideas to get you started:
+- 💼 Atualmente trabalho na minha empresa de aluguel de carros. 💼
+- 📖 Estudo na Faculdade IESB e na escola de formação de devs Rocketseat. 📖 
+- 🚀 Estou em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end. 🚀
+- 📝 Atualmente estou aprendendo, Javascript e ReactJS na Rocketseat e Python na IESB. 📝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e Ferramentas
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+          
+          
+
+           
