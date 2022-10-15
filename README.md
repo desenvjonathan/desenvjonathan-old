@@ -14,7 +14,7 @@
 ## Estou aprendendo          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 
-## Contatos:
+## Contatos
 
 <div>
 <a href="https://instagram.com/jon_ramos97" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:desenvjonathan@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -23,6 +23,7 @@
 
 <br/>
 
+## Status GitHub
 <div>
 <a href="https://github.com/desenvjonathan">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desenvjonathan&layout=compact&langs_count=7&theme=dracula"/>
