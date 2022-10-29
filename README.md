@@ -1,4 +1,4 @@
-# Olá, dev, meu nome é Jonathan Ramos, tudo bem?👋
+# Olá, dev, meu nome é Jonathan Ramos, tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width= "40" height="40"/>
 
 ## Bem vindo ao meu perfil GitHub! 🚀
 
